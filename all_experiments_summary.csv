@@ -1,0 +1,9 @@
+Dataset,Regularizer,Best C,Accuracy,Sparsity
+Synthetic,L2,0.0001,0.66,1997
+Synthetic,L1,0.1,0.65,152
+Synthetic,ElasticNet_0.2,0.013894954943731374,0.67,141
+Synthetic,ElasticNet_0.4,0.03727593720314938,0.64,171
+Synthetic,ElasticNet_0.6,0.03727593720314938,0.66,83
+Synthetic,ElasticNet_0.8,0.03727593720314938,0.64,32
+Digits,L1,2.6366508987303554,0.9916666666666667,True
+Digits,ElasticNet,1.9306977288832496,0.9916666666666667,True
